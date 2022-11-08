@@ -1,3 +1,5 @@
+https://nlw-copa-explorer-france.netlify.app/
+
 - inicia o git (repositório)
 
 `git init`
